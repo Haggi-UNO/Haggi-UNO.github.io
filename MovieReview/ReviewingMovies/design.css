@@ -1,0 +1,21 @@
+@font-face {
+        font-family: 'PixelFont';
+        src: url("font/Pixelify_Sans/PixelifySans-VariableFont_wght.ttf") format("truetype");
+    }
+
+body{
+    background-color: #645394;
+    word-spacing: 10px;
+    color: white;
+    font-family: 'PixelFont', sans-serif;
+    text-align: center;
+
+}
+
+button{
+    font-family:'PixelFont', sans-serif;
+    word-spacing: 10px;
+
+
+
+}
